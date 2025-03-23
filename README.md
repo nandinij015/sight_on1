@@ -1,2 +1,5 @@
 # sight_on1
-This is end to end sight on project which uses object detection, distance calculation and audio detection
+ A Blind Aid Bot is an intelligent, voice-activated assistant
+ designed to help visually impaired users navigate their
+ environment, access information, and interact more
+ easily with technology.
